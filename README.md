@@ -5,7 +5,7 @@
 + The whole project can be viewed using jupytern notebook.
 ## How to
 Must have anaconda installed
-+ Download or close the repo
++ Download or clone the repo
 + Run the command at the project dir
 ```
 jupyter notebook
